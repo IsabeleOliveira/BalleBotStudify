@@ -16,4 +16,6 @@ Bot produzido para estudos de programação, baseado na video-aula feita pela Ra
     > NodeJs
     > DiscordJs 
 
-[Homepage image](images/image_bot.jpeg)
+
+## Card do Bot
+![Homepage image](images/image_bot.png)
