@@ -18,4 +18,4 @@ Bot produzido para estudos de programação, baseado na video-aula feita pela Ra
 
 
 ## Card do Bot
-![Homepage image](images\image_bot.png)
+![Homepage image](images/image_bot.png)
